@@ -1,0 +1,12 @@
+[
+	{
+		"id": "job-22-03",
+		"title": "Test 1",
+		"background": "#ccc",
+		"text": null,
+		"messagePart1": "Hello",
+		"messagePart2": "World",
+		"validFrom": "2022-02-20",
+		"validTo": "2022-02-30"
+	}
+]
