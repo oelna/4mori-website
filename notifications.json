@@ -1,12 +1,32 @@
 [
 	{
-		"id": "job-22-03",
-		"title": "Test 1",
-		"background": "#ccc",
+		"id": "covid-19",
+		"title": "Mitteilung bezüglich COVID-19",
+		"background": null,
 		"text": null,
-		"messagePart1": "Hello",
-		"messagePart2": "World",
+		"messagePart1": "<p>Sehr geehrte Gäste,<br /><br />Aktuell ist der Sitzbereich unseres Lokals aufgrund des Lockdowns geschlossen.</p><p><strong>Telefonische Bestellung und Abholung ist weiterhin wie immer möglich!</strong> 0621-827546</p><p>Wir bereiten die Pizzen, Nudelgerichte und Salate mit der gewohnten Qualität für Sie zu. Wir freuen uns, Sie bald wieder vor Ort begrüßen zu dürfen!</p>",
+		"messagePart2": "<p><strong>Öffnungszeiten</strong><br /><br />Sonntag bis Freitag:<br />11:00 – 14:00 Uhr und<br />17:00 – 23:00 Uhr<br />Samstag Ruhetag</p><p>Wir danken Ihnen für Ihre Unterstützung und Ihre Treue in dieser schwierigen Zeit. Alles Gute und bleiben Sie gesund!</p><p>Ihr Team Pizzeria Quattro Mori</p>",
+		"validFrom": "2019-11-15",
+		"validTo": "2021-09-30"
+	},
+	{
+		"id": "closed-22-03",
+		"title": "Schließzeiten",
+		"background": null,
+		"text": null,
+		"messagePart1": "<p>Unser Lokal bleibt leider vom 22.3. bis 28.3. geschlossen. Wir bitten um Ihr Verständnis und hoffen, Sie bald wieder bei uns begrüßen zu dürfen.</p>",
+		"messagePart2": "",
+		"validFrom": "2022-02-22",
+		"validTo": "2022-03-30"
+	},
+	{
+		"id": "job-22-03",
+		"title": "Wir suchen Mitarbeiter/in in Service und Küche",
+		"background": null,
+		"text": null,
+		"messagePart1": "<p>Aktuell sind wir auf der Suche nach Verstärkung für unser Team in Service und Küche. Melden Sie sich bei Interesse bitte unter:</p><p>Antonio Pani<br />Tel: 0171-6930530</p>",
+		"messagePart2": "",
 		"validFrom": "2022-02-20",
-		"validTo": "2022-02-30"
+		"validTo": "2022-03-30"
 	}
 ]

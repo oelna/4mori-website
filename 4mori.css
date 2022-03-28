@@ -165,8 +165,20 @@ p.warning {
 	display: none;
 }
 
+#notifications .notification {
+	background: #ffca07;
+	hyphens:none;
+}
+
+#notifications .notification + .notification {
+	margin-top: 1rem;
+}
+
 #notifications .header {
 	display: flex;
+	padding: 0.25rem 0.75rem;
+	background: #ff9f9f;
+	mix-blend-mode: multiply;
 }
 
 #notifications button {
@@ -189,6 +201,18 @@ p.warning {
 
 #notifications .header h2 {
 	flex: 1;
+	border: 0;
+	color: currentColor;
+	padding: 0;
+	padding-top: 0.5em;
+	margin: 0;
+	line-height: 1;
+}
+
+#notifications .body {
+	padding: 0.5rem 0.75rem;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 #notifications .body > div {
