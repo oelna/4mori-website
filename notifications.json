@@ -24,10 +24,10 @@
 		"title": "Wichtiger Hinweis: Selbstbedienung und Abholung",
 		"background": null,
 		"text": null,
-		"messagePart1": "<p>Aus gegebenem Anlass können wir leider aktuell <strong>keine Pastagerichte oder Salate</strong> anbieten. Unsere Pizza steht Ihnen in gewohnter Qualität wie immer zur Verfügung.</p><p><strong>Der Sitzbereich im Lokal bleibt bis auf weiteres geschlossen.</strong> Die Sitzmöglichkeiten vor dem Lokal können im Rahmen von Selbstbedienung weiterhin genutzt werden.</p>",
-		"messagePart2": "<p><strong>Unsere Öffnungszeiten haben sich geändert:</strong><br /><br />So-Fr: 17-22 Uhr<br />Sa: Ruhetag<br />Kein Mittagsangebot</p>",
+		"messagePart1": "<p>Aus gegebenem Anlass können wir leider aktuell <strong>keine Pastagerichte oder Salate</strong> anbieten. Unsere Pizza steht Ihnen in gewohnter Qualität wie immer zur Verfügung.</p>",
+		"messagePart2": "<p><strong>Unsere Öffnungszeiten haben sich geändert:</strong><br /><br />Mo-Do: 17-22 Uhr<br />Kein Mittagsangebot</p>",
 		"validFrom": "2022-03-29",
-		"validTo": "2022-06-30"
+		"validTo": "2022-08-30"
 	},
 	{
 		"id": "job-22-03",
