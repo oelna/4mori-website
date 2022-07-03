@@ -25,7 +25,7 @@
 		"background": null,
 		"text": null,
 		"messagePart1": "<p>Aus gegebenem Anlass können wir leider aktuell <strong>keine Pastagerichte oder Salate</strong> anbieten. Unsere Pizza steht Ihnen in gewohnter Qualität wie immer zur Verfügung.</p>",
-		"messagePart2": "<p><strong>Unsere Öffnungszeiten haben sich geändert:</strong><br /><br />Mo-Fr: 17-22 Uhr<br />Kein Mittagsangebot</p>",
+		"messagePart2": "<p><strong>Unsere Öffnungszeiten haben sich geändert:</strong><br /><br />So-Fr: 17-22 Uhr<br />Kein Mittagsangebot</p>",
 		"validFrom": "2022-03-29",
 		"validTo": "2022-08-30"
 	},
@@ -37,6 +37,6 @@
 		"messagePart1": "<p>Aktuell sind wir auf der Suche nach Verstärkung für unser Team in Service und Küche. Melden Sie sich bei Interesse bitte unter:</p><p>Antonio Pani<br />Tel: 0171-6930530</p>",
 		"messagePart2": "",
 		"validFrom": "2022-02-20",
-		"validTo": "2022-06-30"
+		"validTo": "2022-08-30"
 	}
 ]
