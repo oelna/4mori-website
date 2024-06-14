@@ -58,5 +58,15 @@
 		"messagePart2": "",
 		"validFrom": "2023-06-28",
 		"validTo": "2023-08-07"
+	},
+	{
+		"id": "closed-24-07",
+		"title": "Urlaub",
+		"background": null,
+		"text": null,
+		"messagePart1": "<p>Wir machen Urlaub vom 15.7. bis 14.8.<br />Wir freuen uns, Sie im September wieder bei uns begrüßen zu dürfen.</p>",
+		"messagePart2": "",
+		"validFrom": "2024-06-14",
+		"validTo": "2024-08-14"
 	}
 ]
